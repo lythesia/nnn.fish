@@ -16,13 +16,12 @@
 $ omf install nnn
 ```
 
+## Features
 
-## Usage
+* completions
+* quitcd
 
-```fish
-$ nnn
-```
-
+all codes from [jarun/nnn](https://github.com/jarun/nnn)
 
 # License
 
